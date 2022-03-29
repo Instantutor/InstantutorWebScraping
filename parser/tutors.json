@@ -1,0 +1,2145 @@
+{
+    "UCONN": {
+        "Anastasiia M.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra"
+            ],
+            "year": "Ph.D. Student",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Corrie I.": {
+            "courses": [
+                "MATH1020Q - Problem Solving",
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II"
+            ],
+            "year": "Ph.D. Student",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Monday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Jeremy B.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "majors": [
+                "Biomedial Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Dylan S.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "STAT1000Q - Introduction to Statistics I"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "secondary": "Statistics",
+            "majors": [
+                "Mathematics/Actuarial Science (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Emma H.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2360Q - Geometry",
+                "PHYS1201Q - General Physics I"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Gavin H.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2010Q - Fundamentals of Algebra and Geometry I",
+                "MATH2011Q - Fundamentals of Algebra and Geometry II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2410Q - Elementary Differential Equations",
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "PHYS1600Q - Introduction to Modern Physics",
+                "PHYS1601Q - Fundamentals of Physics I",
+                "PHYS1602Q - Fundamentals of Physics II"
+            ],
+            "year": "Senior",
+            "primary": "Physics",
+            "secondary": "Math",
+            "majors": [
+                "Physics (CLAS)",
+                "Philosophy (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Monday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Aiden R.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Chemistry",
+            "majors": [
+                "Biomedial Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Katherine P.": {
+            "courses": [],
+            "year": "Junior",
+            "majors": [
+                "Allied Health Sciences (CANR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Monday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Fei L.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "majors": [
+                "Biomedial Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Ishan S.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Chemistry",
+            "majors": [
+                "Biomedial Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Tuesday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Connor L.": {
+            "courses": [
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II",
+                "STATOTHER - Other"
+            ],
+            "year": "Junior",
+            "primary": "Statistics",
+            "majors": [
+                "Mathematics/Statistics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Monday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Ismael M.": {
+            "courses": [
+                "MATH1020Q - Problem Solving",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Math",
+            "majors": [
+                "Mechanical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Rey C.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II"
+            ],
+            "year": "Sophomore",
+            "primary": "Chemistry",
+            "majors": [
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Kevin R.": {
+            "courses": [],
+            "year": "Senior",
+            "majors": [
+                "Digital Media and Design (SFA)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Alec M.": {
+            "courses": [],
+            "year": "M.S. Student",
+            "majors": [
+                "Physics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Monday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Trey M.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Junior",
+            "majors": [
+                "Chemical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Meg G.": {
+            "courses": [
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STATOTHER - Other"
+            ],
+            "year": "Junior",
+            "primary": "Statistics",
+            "secondary": "Statistics",
+            "majors": [
+                "Physiology and Neurobiology (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Monday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Dhruva R.": {
+            "courses": [],
+            "year": "Junior",
+            "majors": [
+                "Finance (BUSN)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Sakeena A.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1040Q - Elementary Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATHOTHER - Other",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II",
+                "STATOTHER - Other"
+            ],
+            "year": "Sophomore",
+            "primary": "Math, Statistics",
+            "majors": [
+                "Mathematics/Statistics (CLAS)",
+                "Computer Science (ENGR)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Kaylee G.": {
+            "courses": [
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1020Q - Introductory Astronomy",
+                "PHYS1025Q - Introductory Astronomy with Laboratory",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "PHYS1600Q - Introduction to Modern Physics",
+                "PHYS1601Q - Fundamentals of Physics I",
+                "PHYS1602Q - Fundamentals of Physics II",
+                "PHYSOTHER - Other"
+            ],
+            "year": "Senior",
+            "primary": "Physics",
+            "majors": [
+                "Physics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Chloe H.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II"
+            ],
+            "year": "Sophomore",
+            "primary": "Chemistry",
+            "majors": [
+                "Pharmacy Studies (PHRX)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Xinyi Z.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)",
+                "Economics (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Ally T.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "majors": [
+                "Physiology and Neurobiology (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Monday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Maura K.": {
+            "courses": [],
+            "year": "Sophomore",
+            "majors": [
+                "Speech",
+                "Language and Hearing Sciences (CLAS)"
+            ],
+            "schedule": {
+                "Sunday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Bri O.": {
+            "courses": [],
+            "year": "Ph.D. Student",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Jack H.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Meg S.": {
+            "courses": [
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II",
+                "STATOTHER - Other"
+            ],
+            "year": "Senior",
+            "primary": "Statistics",
+            "majors": [
+                "Economics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Jackson H.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations",
+                "MATHOTHER - Other",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "secondary": "Physics, Statistics",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm",
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Serena R.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II"
+            ],
+            "year": "Senior",
+            "primary": "Physics",
+            "secondary": "Math",
+            "majors": [
+                "Computer Science and Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Drew B.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1137Q - Enhanced General Chemistry I",
+                "CHEM1138Q - Enhanced General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "majors": [
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Tuesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Zachary B.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II"
+            ],
+            "year": "Junior",
+            "primary": "Math, Statistics",
+            "secondary": "Physics, Chemistry",
+            "majors": [
+                "Mathematics/Actuarial Science (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Serena S.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "secondary": "Statistics",
+            "majors": [
+                "Applied Mathematical Sciences (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Audrey W.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "majors": [
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Manny H.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II"
+            ],
+            "year": "Freshman",
+            "primary": "Physics, Math",
+            "secondary": "Chemistry",
+            "majors": [
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "1:00pm - 3:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Hyungue L.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "STAT1000Q - Introduction to Statistics I"
+            ],
+            "year": "M.S. Student",
+            "primary": "Math",
+            "majors": [
+                "Mathematics/Actuarial Science (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Ava Z.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Mechanical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Jag S.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "STAT1000Q - Introduction to Statistics I"
+            ],
+            "year": "Sophomore",
+            "primary": "Chemistry, Math",
+            "majors": [
+                "Physiology and Neurobiology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Jon S.": {
+            "courses": [
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2410Q - Elementary Differential Equations",
+                "MATHOTHER - Other",
+                "PHYS1201Q - General Physics I",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1601Q - Fundamentals of Physics I"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "secondary": "Physics",
+            "majors": [
+                "Applied Mathematical Sciences (CLAS)",
+                "Computer Science and Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Lydia M.": {
+            "courses": [
+                "CHEM1147Q - Honors General Chemistry I",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II"
+            ],
+            "year": "Junior",
+            "primary": "Statistics",
+            "secondary": "Math",
+            "majors": [
+                "Individualized Major (CLAS)",
+                "Mathematics/Statistics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Heather M.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II"
+            ],
+            "year": "Sophomore",
+            "primary": "Chemistry",
+            "majors": [
+                "Biology (CLAS)",
+                "Spanish (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Julia K.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II"
+            ],
+            "year": "Junior",
+            "primary": "Statistics, Math",
+            "majors": [
+                "Mathematics/Statistics (CLAS)",
+                "Political Science (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Alvin D.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II"
+            ],
+            "year": "Junior",
+            "majors": [
+                "Applied Mathematical Sciences (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Han Y.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Abby B.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1070Q - Mathematics for Business and Economics",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)",
+                "Ecology and Evolutionary Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Dante C.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATHOTHER - Other",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "secondary": "Physics",
+            "majors": [
+                "Computer Science and Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Nicole C.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "majors": [
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "David C.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics"
+            ],
+            "year": "Junior",
+            "primary": "Math, Physics",
+            "secondary": "Statistics, Chemistry",
+            "majors": [
+                "Chemistry (CLAS)",
+                "Natural Sciences (NEAG)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Tom M.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1070Q - Mathematics for Business and Economics",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "majors": [
+                "English (CLAS)",
+                "Mathematics/Statistics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Erin S.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "STAT1100Q - Elementary Concepts of Statistics"
+            ],
+            "year": "Sophomore",
+            "primary": "Chemistry",
+            "majors": [
+                "Doctor of Pharmacy (PHRX)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Nikos X.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "secondary": "Chemistry",
+            "majors": [
+                "Chemistry (CLAS)",
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Matt C.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "PHYS1201Q - General Physics I",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1601Q - Fundamentals of Physics I"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Physics",
+            "majors": [
+                "Physics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Patrick S.": {
+            "courses": [
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II",
+                "STATOTHER - Other"
+            ],
+            "year": "Junior",
+            "primary": "Statistics",
+            "majors": [
+                "Ecology and Evolutionary Biology (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Will B.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1137Q - Enhanced General Chemistry I",
+                "CHEM1138Q - Enhanced General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1131Q - Calculus I",
+                "MATH1151Q - Honors Calculus I",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1602Q - Fundamentals of Physics II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "secondary": "Physics",
+            "majors": [
+                "Chemistry (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Friday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Jhoan R.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "majors": [
+                "Physiology and Neurobiology (CLAS)",
+                "Spanish (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "James M.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1070Q - Mathematics for Business and Economics",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1110Q - A Survey of Calculus with Applications I",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Computer Science (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Sean M.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1201Q - General Physics I",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Freshman",
+            "primary": "Math",
+            "majors": [
+                "Electrical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Logan B.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1040Q - Elementary Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1110Q - A Survey of Calculus with Applications I",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations",
+                "MATHOTHER - Other"
+            ],
+            "year": "Freshman",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Matt G.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1020Q - Problem Solving",
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus"
+            ],
+            "year": "Freshman",
+            "primary": "Math",
+            "majors": [
+                "Mathematics/Actuarial Science (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Ashley B.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATHOTHER - Other",
+                "STAT1000Q - Introduction to Statistics I",
+                "STAT1100Q - Elementary Concepts of Statistics",
+                "STAT2215Q - Introduction to Statistics II"
+            ],
+            "year": "Junior",
+            "primary": "Math, Statistics",
+            "majors": [
+                "Economics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Thursday": [
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Jarred D.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "PHYS1201Q - General Physics I",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Physics",
+            "majors": [
+                "Mechanical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "3:00pm - 5:00pm"
+                ]
+            }
+        },
+        "Milan P.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH2110Q - Multivariable Calculus",
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "PHYS1600Q - Introduction to Modern Physics",
+                "PHYS1601Q - Fundamentals of Physics I",
+                "PHYS1602Q - Fundamentals of Physics II",
+                "PHYSOTHER - Other"
+            ],
+            "year": "Junior",
+            "primary": "Physics",
+            "secondary": "Chemistry, Math",
+            "majors": [
+                "Physics (CLAS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Erica A.": {
+            "courses": [],
+            "year": "Junior",
+            "majors": [
+                "Nursing (NURS)"
+            ],
+            "schedule": {
+                "Monday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Niko X.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Junior",
+            "primary": "Math",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Zack D.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "majors": [
+                "Computer Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "1:00pm - 3:00pm",
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm",
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Jason M.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1020Q - Problem Solving",
+                "MATH1030Q - Elementary Discrete Mathematics",
+                "MATH1040Q - Elementary Mathematical Modeling",
+                "MATH1050Q - Mathematical Modeling in the Environment",
+                "MATH1060Q - Precalculus",
+                "MATH1070Q - Mathematics for Business and Economics",
+                "MATH1071Q - Calculus for Business and Economics",
+                "MATH1110Q - A Survey of Calculus with Applications I",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "STAT1000Q - Introduction to Statistics I"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "secondary": "Statistics",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "1:00pm - 3:00pm",
+                    "3:00pm - 5:00pm",
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Karla C.": {
+            "courses": [],
+            "year": "Junior",
+            "majors": [
+                "Accounting (BUSN)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Kenya O.": {
+            "courses": [],
+            "year": "Ph.D. Student",
+            "schedule": {
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm",
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Rhythm P.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "secondary": "Math",
+            "majors": [
+                "Biological Sciences (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Rashmi P.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "majors": [
+                "Computer Science and Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Wednesday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Jenna C.": {
+            "courses": [],
+            "year": "Ph.D. Student",
+            "schedule": {
+                "Tuesday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm",
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Jose R.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1137Q - Enhanced General Chemistry I",
+                "CHEM1138Q - Enhanced General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "CHEMOTHER - Other",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATHOTHER - Other"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "secondary": "Math",
+            "majors": [
+                "Chemistry (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Jason B.": {
+            "courses": [
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1152Q - Honors Calculus II",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "STAT1100Q - Elementary Concepts of Statistics"
+            ],
+            "year": "Freshman",
+            "primary": "Math",
+            "majors": [
+                "Mathematics/Actuarial Science (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm"
+                ]
+            }
+        },
+        "Jingyu S.": {
+            "courses": [],
+            "year": "Ph.D. Student",
+            "schedule": {
+                "Tuesday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Friday": [
+                    "11:00am - 1:00pm",
+                    "1:00pm - 3:00pm"
+                ]
+            }
+        },
+        "Sai A.": {
+            "courses": [
+                "MATH1011Q - Introductory College Algebra and Mathematical Modeling",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Freshman",
+            "primary": "Math",
+            "majors": [
+                "Computer Science (ENGR)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "7:00pm - 9:00pm"
+                ],
+                "Wednesday": [
+                    "5:00pm - 7:00pm"
+                ],
+                "Thursday": [
+                    "5:00pm - 7:00pm"
+                ]
+            }
+        },
+        "Brian B.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1137Q - Enhanced General Chemistry I",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "MATH1110Q - A Survey of Calculus with Applications I",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2130Q - Honors Multivariable Calculus",
+                "MATH2210Q - Applied Linear Algebra",
+                "MATH2410Q - Elementary Differential Equations",
+                "MATHOTHER - Other",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1501Q - Physics for Engineers I"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "secondary": "Chemistry, Physics",
+            "majors": [
+                "Mathematics (CLAS)",
+                "Chemistry (CLAS)"
+            ],
+            "schedule": {
+                "Tuesday": [
+                    "9:00pm - 11:00pm"
+                ],
+                "Wednesday": [
+                    "3:00pm - 5:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Patrick C.": {
+            "courses": [
+                "CHEM1124Q - Fundamentals of General Chemistry I",
+                "CHEM1125Q - Fundamentals of General Chemistry II",
+                "CHEM1126Q - Fundamentals of General Chemistry III",
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II"
+            ],
+            "year": "Senior",
+            "primary": "Chemistry",
+            "secondary": "Chemistry",
+            "majors": [
+                "Chemistry (CLAS)",
+                "Molecular and Cell Biology (CLAS)"
+            ],
+            "schedule": {
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Cam C.": {
+            "courses": [
+                "PHYS1010Q - Elements of Physics",
+                "PHYS1020Q - Introductory Astronomy",
+                "PHYS1025Q - Introductory Astronomy with Laboratory",
+                "PHYS1030Q - Physics of the Environment",
+                "PHYS1035Q - Physics of the Environment with Laboratory",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II",
+                "PHYS1501Q - Physics for Engineers I",
+                "PHYS1502Q - Physics for Engineers II",
+                "PHYS1600Q - Introduction to Modern Physics",
+                "PHYS1601Q - Fundamentals of Physics I",
+                "PHYS1602Q - Fundamentals of Physics II"
+            ],
+            "year": "Senior",
+            "primary": "Physics",
+            "majors": [
+                "Physics (CLAS)",
+                "Computer Science and Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Wednesday": [
+                    "1:00pm - 3:00pm"
+                ],
+                "Thursday": [
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Aleks P.": {
+            "courses": [],
+            "year": "Ph.D. Student",
+            "majors": [
+                "Mathematics (CLAS)"
+            ],
+            "schedule": {
+                "Wednesday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ],
+                "Thursday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        },
+        "Kate L.": {
+            "courses": [
+                "CHEM1127Q - General Chemistry I",
+                "CHEM1128Q - General Chemistry II",
+                "CHEM1147Q - Honors General Chemistry I",
+                "CHEM1148Q - Honors General Chemistry II",
+                "MATH1060Q - Precalculus",
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II",
+                "MATH1151Q - Honors Calculus I",
+                "MATH1152Q - Honors Calculus II",
+                "MATH2110Q - Multivariable Calculus",
+                "MATH2410Q - Elementary Differential Equations",
+                "PHYS1201Q - General Physics I",
+                "PHYS1202Q - General Physics II",
+                "PHYS1401Q - General Physics with Calculus I",
+                "PHYS1402Q - General Physics with Calculus II"
+            ],
+            "year": "Senior",
+            "primary": "Math",
+            "secondary": "Chemistry, Physics",
+            "majors": [
+                "Structural Biology and Biophysics (CLAS)"
+            ],
+            "schedule": {
+                "Wednesday": [
+                    "7:00pm - 9:00pm"
+                ]
+            }
+        },
+        "Wei Z.": {
+            "courses": [
+                "MATH1131Q - Calculus I",
+                "MATH1132Q - Calculus II"
+            ],
+            "year": "Sophomore",
+            "primary": "Math",
+            "majors": [
+                "Biomedial Engineering (ENGR)",
+                "Electrical Engineering (ENGR)"
+            ],
+            "schedule": {
+                "Thursday": [
+                    "7:00pm - 9:00pm",
+                    "9:00pm - 11:00pm"
+                ]
+            }
+        }
+    }
+}
